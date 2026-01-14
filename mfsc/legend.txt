@@ -1,0 +1,9 @@
+bench_mfsc: benchmarking script for MFSC takes the ckpt arg which is the model paths and model arg depending on what model you are testing remamba, bimamba, finetuneGRU, and transformer
+
+emg_model_mamba_mfsc: BiMamba
+emg_model_with_mamba5_wst: ReMamba
+emg_model_with_trans.py: finetuneGRU & Transformer
+
+
+
+
